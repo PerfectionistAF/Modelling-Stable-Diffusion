@@ -1,2 +1,4 @@
-# LLM-RAG
-Using NVIDIA services for long context augmented generative networks
+# Graphics Modelling in Python
+## Repository Overview
+## Repository Description
+##### Using NVIDIA services for long context augmented generative networks
